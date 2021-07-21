@@ -71,7 +71,7 @@ let tr =  pAequorFactory(200, mockUpStrand())
 //console.log(tr.dna);
 
 
-console.log(instances())
+console.log("cambio para ver que pasa con head "+ instances())
 
 
 
