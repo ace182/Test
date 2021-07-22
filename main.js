@@ -72,7 +72,7 @@ let tr =  pAequorFactory(200, mockUpStrand())
 
 
 console.log("cambio para ver que pasa con head "+ instances())
-
+console.log('probando cambios 1')
 
 
 
