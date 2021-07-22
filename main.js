@@ -74,5 +74,7 @@ let tr =  pAequorFactory(200, mockUpStrand())
 console.log('cambio'+instances())
 console.log('cambio 2 para ver como intercalan')
 
+console.log('probando cambios 1')
+
 
 
